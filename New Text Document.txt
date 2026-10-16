@@ -1,0 +1,28 @@
+PS C:\Users\manis\OneDrive\Desktop\Skyline-Project-main> It will come automatically post click on terminal
+
+> Enter ls press enter > then system will give us below screen
+
+Directory: C:\Users\manis\OneDrive\Desktop\Skyline-Project-main
+
+
+Mode                 LastWriteTime         Length Name                                                  
+----                 -------------         ------ ----                                                  
+dar--l        10/16/2026   2:03 PM                Skyline-Django-Backend                                
+dar--l        10/16/2026   1:39 PM                skyline-react                                         
+-a----        10/16/2026   1:31 PM           8196 .DS_Store  
+
+PS C:\Users\manis\OneDrive\Desktop\Skyline-Project-main>  Enter this line click on enter (It will navigate to specific folder) cd Skyline-Django-Backend
+
+> //for run the server Django server use below common post the command line -
+
+PS C:\Users\manis\OneDrive\Desktop\Skyline-Project-main\Skyline-Django-Backend> python manage.py runserver 
+
+// System will give us URL 
+
+http://127.0.0.1:8000/
+
+paste this URL on google-
+
+http://127.0.0.1:8000/admin // to go to dashboard of backend response - djnago enter the User name and password - Vishal@09876 
+
+// then we can see the response from customer details which is done inside the get quote from submission
