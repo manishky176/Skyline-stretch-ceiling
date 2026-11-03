@@ -1,4 +1,6 @@
+
 import "./index.css";
+import WhatsAppButton from "./components/WhatsAppButton";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
@@ -11,14 +13,17 @@ export default function App() {
   return (
     <>
       <Header />
+
       <main>
         <Hero />
         <Services />
         <Portfolio />
         <WhyChoose />
         <QuoteForm />
-        <Footer />
       </main>
+      <Footer />
+
+      <WhatsAppButton />
     </>
   );
 }
