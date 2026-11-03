@@ -11,8 +11,7 @@ dar--l        10/16/2026   2:03 PM                Skyline-Django-Backend
 dar--l        10/16/2026   1:39 PM                skyline-react                                         
 -a----        10/16/2026   1:31 PM           8196 .DS_Store  
 
-PS C:\Users\manis\OneDrive\Desktop\Skyline-Project-main>  Enter this line click on enter (It will navigate to specific folder) cd Skyline-Django-Backend
-
+PS C:\Users\manis\OneDrive\Desktop\Skyline-Project-main>  Enter line cd Skyline-Django-Backend line click on enter (It will navigate to specific folder) 
 > //for run the server Django server use below common post the command line -
 
 PS C:\Users\manis\OneDrive\Desktop\Skyline-Project-main\Skyline-Django-Backend> python manage.py runserver 
